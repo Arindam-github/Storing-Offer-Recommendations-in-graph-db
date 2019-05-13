@@ -1,0 +1,31 @@
+OfferId,description,category1,category2
+PF1,Recently closed a loan,PersonalFinance,Investment
+PF2,Looking for Remittance ,PersonalFinance,FX
+PF3,Forthcoming Bonus,PersonalFinance,Investment
+PF4,Downloaded TandC of a product,PersonalFinance,Product Offer
+PF5,Taken Cash on Card,PersonalFinance,PL
+PF6,Not using Card for 3 months,PersonalFinance,BT
+BS7,Updated mobile app,Services,Notification about changes
+BS8,Reward point expiring,Services,Redemption notification
+BS9,Stopped using card after incorrect pin entered,Services,Card change process info
+BS10,Consistently logging in from a differnet geolocation,Services,Address change process
+BS11,Changed Employer,Services,Corporate offers for the employer
+BS12,Booked a travel ticket,Services,International card and FX usage
+LS13,Increase in Pub transactions,LifeStyle,Health
+LS14,Increase in Restaurant transactions,LifeStyle,Health
+LS15,Less than regular savings in a month,LifeStyle,LifeGoal
+LS16,Travel anniversary,LifeStyle,Travel
+LS17,Vacation forthcoming,LifeStyle,Travel
+LS18,Booked a travel without subscribing offer,LifeStyle,Travel
+LS19,Bought apparel without subscribing offer,LifeStyle,Apparel
+LS20,Apparel merchants with tie up,LifeStyle,Apparel
+LS21,Forthcoming deals in partnet apparel merchants,LifeStyle,Apparel
+LS22,Forthcoming deals in partner merchants,LifeStyle,All shopping offers
+LS23,Dined at a restaurent without subscribing offer,LifeStyle,Dining
+LS24,Forthcoming deals with partner restaurants,LifeStyle,Dining
+PF25,Achieved a milestone in savings target,PersonalFinance,LifeGoal
+LS26,Discount in Gaming parlours,LifeStyle,Gaming 
+LS27,Discounts in partner gyms,LifeStyle,Health
+LS28,Hospital transaction without subscribing offer,LifeStyle,Health
+LS29,Partner offers at preferred apparel stores,LifeStyle,Apparel
+LS30,Partner airlines for frequent fliers,LifeStyle,Travel

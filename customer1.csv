@@ -1,0 +1,51 @@
+CustId,Offer1,Offer2,Works_with,Country,Earns,Remits_Money,Holds_Personal_loan,Holds_Auto_loan,Holds_Mortgage,Holds_Credit_Card,Holds_Debit_Card,Holds_Current_acct,Holds_Savings_acct,Holds_Term_deposit,Holds_Investment
+C1,PF1,LS13,BMW Middle East,AE,More_than_50K,Never,No,No,No,No,No,Yes,No,No,No
+C2,PF2,LS14,Etisalat,EG,Less_than_5K,Lapser,No,No,No,Yes,No,No,Yes,No,No
+C3,PF3,LS15,Shell,US,15K_25K,Never,No,No,No,No,Yes,Yes,Yes,No,No
+C4,PF4,LS16,Shell,AE,25K_50K,New,No,No,No,Yes,No,Yes,Yes,Yes,No
+C5,PF5,LS17,Shell,US,5K_15K,Regular,No,No,No,No,Yes,No,No,Yes,No
+C6,PF6,LS18,Shell,UK,25K_50K,Lapser,No,No,No,No,No,No,No,Yes,No
+C7,BS7,LS19,Shell,EG,15K_25K,Regular,No,No,No,Yes,No,Yes,No,Yes,No
+C8,BS8,LS20,Etisalat,UK,15K_25K,Lapser,No,No,No,Yes,No,Yes,No,No,No
+C9,BS9,LS21,PWC,IND,More_than_50K,Never,Yes,No,No,No,Yes,Yes,Yes,No,No
+C10,BS10,LS22,Emirates,IND,15K_25K,Lapser,No,No,No,No,No,Yes,Yes,No,No
+C11,BS11,LS23,PWC,IND,15K_25K,Never,No,No,No,Yes,Yes,Yes,No,Yes,Yes
+C12,BS12,LS24,Shell,US,More_than_50K,Ocassional_Small,No,No,Yes,No,Yes,No,No,Yes,No
+C13,PF4,PF25,Emirates,AE,25K_50K,Never,No,Yes,No,Yes,No,Yes,No,Yes,No
+C14,PF5,LS26,BMW Middle East,IND,25K_50K,Ocassional_Big,No,No,Yes,Yes,Yes,Yes,No,No,No
+C15,PF6,LS27,Shell,US,5K_15K,Ocassional_Small,No,No,No,No,Yes,No,No,No,No
+C16,BS7,LS28,Emirates,IND,More_than_50K,Lapser,No,No,No,Yes,Yes,No,Yes,Yes,No
+C17,BS8,LS29,BMW Middle East,IND,25K_50K,Ocassional_Big,No,No,No,Yes,Yes,Yes,No,No,No
+C18,BS9,LS30,Shell,EG,15K_25K,Never,No,Yes,Yes,Yes,No,Yes,Yes,No,No
+C19,BS10,PF1,Emirates,UK,5K_15K,Lapser,No,No,Yes,No,Yes,Yes,No,No,No
+C20,PF1,PF2,BMW Middle East,EG,Less_than_5K,New,Yes,No,No,No,Yes,Yes,No,No,No
+C21,PF2,LS19,Emirates,UK,Less_than_5K,Ocassional_Small,No,No,No,No,Yes,Yes,No,No,No
+C22,PF3,LS20,Emirates,UK,5K_15K,Regular,No,No,Yes,No,Yes,Yes,No,Yes,No
+C23,PF4,LS21,BMW Middle East,UK,5K_15K,Ocassional_Small,No,No,No,No,Yes,No,No,No,No
+C24,PF5,LS22,Etisalat,IND,15K_25K,Ocassional_Small,Yes,No,No,No,No,Yes,No,No,No
+C25,PF6,LS23,Etisalat,US,More_than_50K,Ocassional_Small,No,No,No,No,Yes,Yes,No,No,No
+C26,BS7,LS24,Emirates,IND,15K_25K,New,No,Yes,No,No,Yes,Yes,No,No,No
+C27,BS8,PF25,BMW Middle East,IND,Less_than_5K,Ocassional_Small,No,No,No,Yes,No,No,No,No,No
+C28,BS9,LS26,BMW Middle East,UK,5K_15K,Lapser,No,Yes,No,No,Yes,Yes,No,No,No
+C29,BS10,LS27,BMW Middle East,UK,15K_25K,Ocassional_Small,No,Yes,No,No,Yes,Yes,No,No,No
+C30,BS11,LS28,Shell,EG,25K_50K,Lapser,No,No,No,No,No,Yes,Yes,No,No
+C31,BS12,LS29,BMW Middle East,UK,More_than_50K,Ocassional_Big,No,Yes,No,Yes,Yes,Yes,No,No,No
+C32,PF1,LS30,Etisalat,EG,Less_than_5K,New,No,No,Yes,Yes,No,No,Yes,No,No
+C33,PF2,BS7,Emirates,IND,15K_25K,New,Yes,Yes,No,No,Yes,Yes,No,No,No
+C34,PF3,BS8,Shell,AE,More_than_50K,Regular,Yes,No,No,No,No,Yes,Yes,Yes,Yes
+C35,BS7,BS9,Etisalat,AE,5K_15K,Regular,No,Yes,No,Yes,Yes,Yes,No,No,No
+C36,BS8,LS24,BMW Middle East,AE,More_than_50K,Ocassional_Big,No,No,No,Yes,Yes,No,No,No,No
+C37,BS9,PF25,Shell,UK,15K_25K,Never,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes
+C38,BS10,LS26,Etisalat,EG,5K_15K,Regular,Yes,No,Yes,Yes,No,Yes,No,No,No
+C39,BS11,LS27,Emirates,EG,15K_25K,Lapser,No,No,No,Yes,Yes,No,Yes,No,No
+C40,BS9,LS28,Emirates,IND,15K_25K,Ocassional_Big,No,Yes,No,Yes,Yes,Yes,No,No,No
+C41,BS10,LS29,Etisalat,IND,More_than_50K,Ocassional_Small,No,No,No,No,No,Yes,No,No,No
+C42,BS11,LS30,BMW Middle East,EG,25K_50K,Ocassional_Big,No,No,No,No,Yes,No,No,No,No
+C43,BS12,PF1,PWC,US,15K_25K,New,No,No,No,Yes,No,Yes,No,No,No
+C44,PF4,LS13,BMW Middle East,IND,Less_than_5K,Ocassional_Big,No,No,Yes,No,Yes,No,No,No,No
+C45,PF5,LS14,PWC,AE,25K_50K,New,No,No,No,Yes,No,No,No,No,No
+C46,PF6,LS15,Etisalat,IND,More_than_50K,Lapser,No,No,No,No,Yes,Yes,No,No,Yes
+C47,BS7,LS16,BMW Middle East,US,More_than_50K,New,No,No,No,No,Yes,Yes,No,No,No
+C48,BS8,LS17,Etisalat,EG,15K_25K,Never,No,Yes,No,Yes,Yes,Yes,No,No,No
+C49,BS9,LS18,BMW Middle East,UK,More_than_50K,Regular,No,No,No,Yes,Yes,Yes,No,No,No
+C50,BS10,LS19,PWC,EG,15K_25K,Lapser,No,Yes,No,No,No,No,Yes,No,No
