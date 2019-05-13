@@ -1,0 +1,38 @@
+load csv with headers from "file:///C:/offers1.csv" as offers
+create(A:Offer
+{
+OfferId: offers.OfferId, 
+Description: offers.description, 
+Category1: offers.category1,
+Category2: offers.category2
+} )
+
+load csv with headers from "file:///C:/customer1.csv" as customers 
+create(n:Customers 
+{
+Id: customers.CustId, 
+Offer1: customers.Offer1,
+Offer2: customers.Offer2,
+Works_with: customers.Works_with, 
+Country: customers.country, 
+Earns: customers.Earns,
+Remits_Money: customers.Remits_Money, 
+Holds_Personal_loan: customers.Holds_Personal_loan,	
+Holds_Auto_loan: customers.Holds_Auto_loan,	
+Holds_Mortgage: customers.Holds_Mortgage, 
+Holds_Credit_Card: customers.Holds_Credit_Card,	
+Holds_Debit_Card: customers.Holds_Debit_Card, 
+Holds_Current_acct: customers.Holds_Current_acct,	
+Holds_Savings_acct: customers.Holds_Savings_acct, 
+Holds_Term_deposit: customers.Holds_Term_deposit,	
+Holds_Investment: customers.Holds_Investment
+ }
+ )
+
+
+ load csv with headers from "file:///C:/customer1.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Offer{OfferId: customers.Offer1}) create (a) - [r: FirstOffer] -> (b)
+
+
+load csv with headers from "file:///C:/customer1.csv" as customers
+match (a: Customers {Id: customers.CustId}), (b: Offer{OfferId: customers.Offer2}) create (a) - [r: SecondOffer] -> (b)
